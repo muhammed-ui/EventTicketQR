@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EventTicketQR</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_event">Event</string>
+
+
+
+    // from web
+
+    <string name="action_settings">Settings</string>
+    <string name="code">Serial number: \n <font size='10'> 3200035</font></string>
+    <string name="price">Price: \n <font size='10'> 200</font></string>
+    <string name="dst_city"><b>Stadium </b>\n<font size='10'>Bakau</font></string>
+    <string name="src_city"><b>Gate</b>\n<font size='10'>ANY</font></string>
+    <string name="date">22&#8211;07&#8211;2018</string>
+    <string name="name">Modou Sarr</string>
+
+</resources>

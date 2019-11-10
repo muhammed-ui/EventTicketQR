@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "776583828897",
+    "firebase_url": "https://eventticketqr-9b48a.firebaseio.com",
+    "project_id": "eventticketqr-9b48a",
+    "storage_bucket": "eventticketqr-9b48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776583828897:android:abf71d7f0c30d9e8",
+        "android_client_info": {
+          "package_name": "com.example.reds0n.eventticketqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776583828897-qai9tb775msj3vqv82md7tljthljmoik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reds0n.eventticketqr",
+            "certificate_hash": "3bacc6b7ec423bb6cfdc4069b777b82d34b44338"
+          }
+        },
+        {
+          "client_id": "776583828897-p0f6plktvnas6qtnjaah3u08s7kl6ubu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reds0n.eventticketqr",
+            "certificate_hash": "7dd2c27e359ee241332d8508f34a51036ac6782f"
+          }
+        },
+        {
+          "client_id": "776583828897-65mhknvh2ove83ejnn5je0a14imhf9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJDmAKTuZTeg_HCb_If-5prubaDkX3SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776583828897-65mhknvh2ove83ejnn5je0a14imhf9i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
